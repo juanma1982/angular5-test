@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+# angular5-test
+Testing repo for angular 5 projects
+
 # MyNewProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
@@ -27,6 +30,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# angular5-test
-Testing repo for angular 5 projects
->>>>>>> 754b35c0419c132d209d8e852b764d8a30019ab6
+
+
